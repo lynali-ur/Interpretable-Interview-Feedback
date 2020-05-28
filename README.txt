@@ -9,7 +9,7 @@ The audio file is automatically passed through google cloud speech-to-text api, 
 The packages are listed below and can be installed using the requirements.txt. I recommend installing it under a virtual environment using command:
 ********pip install -r requirements.txt**********
 
-The google api requires credential for verification purpose, the key is in the GCloudKey.json file, the instruction to set it up can be found here: https://cloud.google.com/docs/authentication/getting-started.
+The google api requires credential for verification purpose, to setup the key, follow the instruction to set it up can be found here: https://cloud.google.com/docs/authentication/getting-started.
 
 
 Dependencies:
